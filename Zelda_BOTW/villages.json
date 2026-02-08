@@ -3,69 +3,69 @@
         "id": "VLG-01",
         "name":"Hyrule Castle",
         "description":"Hyrule Castle is the final, non-linear, and heavily ruined dungeon located at the center of the map, characterized by its massive, dangerous, and vertically integrated design covered in Calamity Malice. It acts as both a treasure trove for high-level gear and a fortress for the final showdown. ",
-        "image":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/BotW_Hyrule_Castle_Close_Up.png/revision/latest?cb=20170430160026"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170430160026.png"
     },
 
     {
         "id": "VLG-02",
         "name":"Kakariko Village",
         "description":"Kakariko Village is a vital, serene, and Japanese-inspired Sheikah settlement tucked away in the mountains of West Necluda.",
-        "image":"https://www.architectureofzelda.com/uploads/3/7/1/2/37126503/2017121018363000-f1c11a22faee3b82f21b330e1b786a39_orig.jpg"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/2017121018363000-f1c11a22faee3b82f21b330e1b786a39_orig.jpg"
     },
 
     {
         "id": "VLG-03",
         "name":"Hateno Village",
         "description":"Hateno Village, located in East Necluda, is a permanent, peaceful Hylian settlement that survived the Great Calamity. It serves as a major hub for side quests, featuring an armor shop, dye shop, inn, and the Hateno Ancient Tech Lab.",
-        "image":"https://static.wikia.nocookie.net/zelda/images/0/0a/Hateno_Village.jpg/revision/latest?cb=20170320144002"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170320144002.png"
     },
 
     {
         "id": "VLG-04",
         "name":"Lurelin Village",
         "description":"Lurelin Village is a, secluded, tropical fishing village located on the southeastern coast of East Necluda. Characterized by elevated, palm-roofed huts, sandy beaches, and calm, sunny weather with frequent rain, it serves as a peaceful, rustic escape from the war-torn regions of Hyrule.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/1/1d/TotK_Lurelin_Village.png?version=4d7b0ff2259697fec0a3505e7d8dc6f9"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/TotK_Lurelin_Village.png%3Fversion%3D4d7b0ff2259697fec0a3505e7d8dc6f9.png"
     },
 
     {
         "id": "VLG-05",
         "name":"Gerudo Town",
         "description":"Gerudo Town is a vibrant, female-only, walled city in the center of the Gerudo Desert. It acts as a major trading hub with shops, a spa, and the Royal Palace. Link must wear the Gerudo outfit to gain entry, as the city forbids men",
-        "image":"https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/03/BotW_Gerudo_Town.png/revision/latest?cb=20170113144807"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170113144807.png"
     },
 
     {
         "id": "VLG-06",
         "name":"Zora's Domain",
         "description":"Zora's Domain is a stunning, water-based, and fish-shaped city located in the Lanayru region, serving as the home of the Zora race. It is characterized by its luminous, blue-glowing architecture, interconnected walkways, and the central statue of Champion Mipha.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/e/ec/BotW_Zora%27s_Domain_Night.png?version=c3003d596e01547860e6d20e9e4c6ee8"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/BotW_Zora's_Domain_Night.png%3Fversion%3Dc3003d596e01547860e6d20e9e4c6ee8.png"
     },
 
     {
         "id": "VLG-07",
         "name":"Tarrey Town",
         "description":"Tarrey Town is a thriving, multicultural village located on a small, circular island in northern Lake Akkala.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/thumb/7/77/TotK_Tarrey_Town.png/1200px-TotK_Tarrey_Town.png"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/1200px-TotK_Tarrey_Town.png"
     },
 
     {
         "id": "VLG-08",
         "name":"Goron City",
         "description":"Goron City is a high-temperature, volcanic mining town located on the slopes of Death Mountain in the Eldin region. It features stone-and-metal, cave-like houses built around lava pools, and serves as a, bustling, industrial hub for the Goron people.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/thumb/3/38/TotK_Goron_City.png/320px-TotK_Goron_City.png"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/320px-TotK_Goron_City.png"
     },
 
     {
         "id": "VLG-09",
         "name":"Korok Forest",
         "description":"Korok Forest is a hidden, lush, and verdant village located at the center of the Lost Woods in the Great Hyrule Forest. Protected by the Great Deku Tree, it is the sanctuary for the Master Sword and home to numerous Koroks, acting as a serene hub for trials.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/thumb/0/00/TotK_Korok_Forest.png/640px-TotK_Korok_Forest.png"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/640px-TotK_Korok_Forest.png"
     },
 
     {
         "id": "VLG-10",
         "name":"Rito Village",
         "description":"Rito Village is a vertical town built on a massive stone pillar in the center of Lake Totori within the cold Tabantha Frontier. Home to the bird-like Rito tribe, it features a spiraling wooden path connecting huts.",
-        "image":"https://cdn.wikimg.net/en/zeldawiki/images/thumb/6/68/TotK_Rito_Village.png/640px-TotK_Rito_Village.png"
+        "image":"https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/640px-TotK_Rito_Village.png"
     }
 ]

@@ -5,14 +5,14 @@
         "description": "The main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, bound to save the world from evil forces threatening it.",
         "age": "117",
         "isAlive": "true",
-        "image": "https://freepngimg.com/thumb/the_legend_of_zelda/115903-of-the-legend-zelda-free-transparent-image-hd.png",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/115903-of-the-legend-zelda-free-transparent-image-hd.png",
         "abilities": ["remote bombs", "magnesis", "stasis", "cryonis"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-03",
             "name": "Hateno village",
             "description":"Hateno Village, located in East Necluda, is a permanent, peaceful Hylian settlement that survived the Great Calamity. It serves as a major hub for side quests, featuring an armor shop, dye shop, inn, and the Hateno Ancient Tech Lab.",
-            "image": "https://static.wikia.nocookie.net/zelda/images/0/0a/Hateno_Village.jpg/revision/latest?cb=20170320144002"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170320144002.png"
         }
     },
     
@@ -22,14 +22,14 @@
         "description": "The princess of Hyrule. The one bound to seal Ganon away with the help of link and the other mages. Portrayed as a kind and shy character who struggles with controlling her power.",
         "age": "117",
         "isAlive": "true",
-        "image": "https://banner2.cleanpng.com/lnd/20241029/ip/aa6598d24da9ca7f1360f0e814fb01.webp",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/aa6598d24da9ca7f1360f0e814fb01.webp",
         "abilities": ["sealing"],
         "gender": "female",
         "placeOfOrigin": {
             "id": "VLG-01",
             "name": "Hyrule Castle",
             "description":"Hyrule Castle is the final, non-linear, and heavily ruined dungeon located at the center of the map, characterized by its massive, dangerous, and vertically integrated design covered in Calamity Malice. It acts as both a treasure trove for high-level gear and a fortress for the final showdown. ",
-            "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/BotW_Hyrule_Castle_Close_Up.png/revision/latest?cb=20170430160026"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170430160026.png"
         }
     },
 
@@ -39,14 +39,14 @@
         "description": "A monstrous, amorphous entity of pure malice and ancient technology, serving as the primary antagonist trapped within Hyrule Castle. It appears as a spider-like, mechanical abomination composed of glowing orange energy and Guardian parts, representing a partially-regenerated form aiming to resurrect.",
         "age": "10100",
         "isAlive": "true",
-        "image": "https://cdn.wikimg.net/en/zeldawiki/images/4/4d/BotW_Calamity_Ganon_Artwork.png",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/BotW_Calamity_Ganon_Artwork.png",
         "abilities": ["posses/corrupt guardians", "reviving, reanimating, empowering monsters"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-05",
             "name": "Gerudo Town",
             "description":"Gerudo Town is a vibrant, female-only, walled city in the center of the Gerudo Desert. It acts as a major trading hub with shops, a spa, and the Royal Palace. Link must wear the Gerudo outfit to gain entry, as the city forbids men",
-            "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/03/BotW_Gerudo_Town.png/revision/latest?cb=20170113144807"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170113144807.png"
         }
     },
 
@@ -56,14 +56,14 @@
         "description": "A gentle, introverted, and courageous healer who serves as one of the four Champions. As the pilot of Divine Beast Vah Ruta, she uses her unique healing ability, Mipha's Grace, to aid Link and holds deep romantic feelings for him, having crafted special armor for him.",
         "age": "60",
         "isAlive": "false",
-        "image": "https://static.wikia.nocookie.net/the-legend-of-zelda-botw/images/7/77/Mipha.png/revision/latest?cb=20250524222052",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/latest%3Fcb%3D20250524222052.png",
         "abilities": ["Mipha's Grace"],
         "gender": "female",
         "placeOfOrigin": {
             "id": "VLG-06",
             "name": "Zora's Domain",
             "description":"Zora's Domain is a stunning, water-based, and fish-shaped city located in the Lanayru region, serving as the home of the Zora race. It is characterized by its luminous, blue-glowing architecture, interconnected walkways, and the central statue of Champion Mipha.",
-            "image": "https://cdn.wikimg.net/en/zeldawiki/images/e/ec/BotW_Zora%27s_Domain_Night.png?version=c3003d596e01547860e6d20e9e4c6ee8"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/BotW_Zora's_Domain_Night.png%3Fversion%3Dc3003d596e01547860e6d20e9e4c6ee8.png"
         }
     },
 
@@ -73,14 +73,14 @@
         "description": "Arrogant yet highly skilled Rito Champion, serving as the proud pilot of Divine Beast Vah Medoh. As a master archer who created the updraft ability 'Revali's Gale', he resents Link due to intense jealousy of his position as Zelda's appointed knight. He wears the blue Champion's sash and wields the Great Eagle Bow.",
         "age": "21",
         "isAlive": "false",
-        "image": "https://static.wikia.nocookie.net/zelda/images/0/0e/Revali_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170220194609",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/latest%3Fcb%3D20170220194609.png",
         "abilities": ["Revali's Gale"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-10",
             "name": "Rito Village",
             "description":"Rito Village is a vertical town built on a massive stone pillar in the center of Lake Totori within the cold Tabantha Frontier. Home to the bird-like Rito tribe, it features a spiraling wooden path connecting huts.",
-            "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/6/68/TotK_Rito_Village.png/640px-TotK_Rito_Village.png"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/640px-TotK_Rito_Village.png"
         }
     },
 
@@ -90,14 +90,14 @@
         "description": "The formidable Gerudo Chief and Champion who pilots Divine Beast Vah Naboris. Known for her tall, muscular build, red hair, and green eyes, she wears traditional Gerudo attire with Champion blue. She controls lightning through her signature technique 'Urbosa’s Fury', and battles using the Scimitar of the Seven and Daybreaker shield. ",
         "age": "47",
         "isAlive": "false",
-        "image": "https://static.wikia.nocookie.net/zelda/images/0/02/Urbosa_Artwork_%28Breath_of_the_Wild%29.png/revision/latest/scale-to-width-down/1200?cb=20170306150602",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/1200%3Fcb%3D20170306150602.png",
         "abilities": ["Urbosa's Fury"],
         "gender": "female",
         "placeOfOrigin": {
             "id": "VLG-05",
             "name": "Gerudo Town",
             "description":"Gerudo Town is a vibrant, female-only, walled city in the center of the Gerudo Desert. It acts as a major trading hub with shops, a spa, and the Royal Palace. Link must wear the Gerudo outfit to gain entry, as the city forbids men",
-            "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/03/BotW_Gerudo_Town.png/revision/latest?cb=20170113144807"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170113144807.png"
         }
     },
 
@@ -107,14 +107,14 @@
         "description": "The brave and hearty Goron Champion, piloting the Divine Beast Vah Rudania to fight Calamity Ganon. A loyal friend to Link, he is a powerful warrior known for his booming laugh and 'Daruk's Protection', a defensive forcefield. He wears the Champion's blue sash over his bulky, light-brown skin.",
         "age": "50",
         "isAlive": "false",
-        "image": "https://static.wikia.nocookie.net/zelda/images/6/66/Daruk_Artwork_%28Breath_of_the_Wild%29.png/revision/latest?cb=20170306075733",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/latest%3Fcb%3D20170306075733.png",
         "abilities": ["Daruk's Protection"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-08",
             "name": "Goron City",
             "description":"Goron City is a high-temperature, volcanic mining town located on the slopes of Death Mountain in the Eldin region. It features stone-and-metal, cave-like houses built around lava pools, and serves as a, bustling, industrial hub for the Goron people.",
-            "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/3/38/TotK_Goron_City.png/320px-TotK_Goron_City.png"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/320px-TotK_Goron_City.png"
         }
     },
 
@@ -124,14 +124,14 @@
         "description": "The benevolent, slightly mischievous 'Horse God' in Breath of the Wild who watches over and revives deceased horses. Located in a Great Fairy-like bud at Malanya Spring in the Faron Region (near Highland Stable)",
         "age": "UNKNOWN",
         "isAlive": "true",
-        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/be/BotW_Malanya_Model.png/revision/latest/scale-to-width-down/1200?cb=20170316195034",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/1200%3Fcb%3D20170316195034.png",
         "abilities": ["reviving"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-07",
             "name": "Tarrey Town",
             "description":"Tarrey Town is a thriving, multicultural village located on a small, circular island in northern Lake Akkala.",
-            "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/7/77/TotK_Tarrey_Town.png/1200px-TotK_Tarrey_Town.png"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/1200px-TotK_Tarrey_Town.png"
         }
     },
 
@@ -141,14 +141,14 @@
         "description": "A large, cheerful, tree-like Korok who serves as a key character for increasing Link's weapon, bow, and shield inventory slots in exchange for Korok Seeds. As a celebrated musician, he utilizes magical maracas",
         "age": "UNKNOWN",
         "isAlive": "true",
-        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a9/Hestu_totk.png/revision/latest?cb=20230514210219",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/latest%3Fcb%3D20230514210219.png",
         "abilities": ["Inventory Expansion"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-09",
             "name": "Korok Forest",
             "description":"Korok Forest is a hidden, lush, and verdant village located at the center of the Lost Woods in the Great Hyrule Forest. Protected by the Great Deku Tree, it is the sanctuary for the Master Sword and home to numerous Koroks, acting as a serene hub for trials.",
-            "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/0/00/TotK_Korok_Forest.png/640px-TotK_Korok_Forest.png"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/640px-TotK_Korok_Forest.png"
         }
     },
 
@@ -158,14 +158,14 @@
         "description": "The lazy, comedic, and rotund leader of the Yiga Clan. As a major antagonist loyal to Calamity Ganon, he commands the Yiga to assassinate Link. Found in the Yiga Clan Hideout, he fights using telekinesis and conjured boulders, often distracted by eating Mighty Bananas.",
         "age": "100",
         "isAlive": "true",
-        "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/5/58/TotK_Master_Kohga_Model.png/640px-TotK_Master_Kohga_Model.png",
+        "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/characters/640px-TotK_Master_Kohga_Model.png",
         "abilities": ["teleportation", "levitation", "conjuring"],
         "gender": "male",
         "placeOfOrigin": {
             "id": "VLG-05",
             "name": "Gerudo Town",
             "description":"Gerudo Town is a vibrant, female-only, walled city in the center of the Gerudo Desert. It acts as a major trading hub with shops, a spa, and the Royal Palace. Link must wear the Gerudo outfit to gain entry, as the city forbids men",
-            "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/03/BotW_Gerudo_Town.png/revision/latest?cb=20170113144807"
+            "image": "https://github.com/xmz-b/project-Zelda_BOTW/blob/main/Zelda_BOTW/images/villages/latest%3Fcb%3D20170113144807.png"
         }
     }
 ]
